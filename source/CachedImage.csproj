@@ -18,7 +18,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Release</PackageReleaseNotes>
     <UseWPF>true</UseWPF>
-    <EnableWindowsTargetting>true</EnableWindowsTargetting>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
   </PropertyGroup>
 
   <ItemGroup Condition="'$(TargetFramework)' == 'net45'">
